@@ -1600,6 +1600,10 @@
     "listed": true,
     "version": "5.28.0"
   },
+  "Utf8StreamReader": {
+    "listed": true,
+    "version": "0.0.1"
+  },
   "Utf8StringInterpolation": {
     "listed": true,
     "version": "1.3.1"
